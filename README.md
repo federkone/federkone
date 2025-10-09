@@ -16,6 +16,6 @@
 
 | | |
 |:---:|:---:|
-| ![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=federkone&show_icons=true&hide_border=true&bg_color=161616&theme=dark) | [![GitHub Streak](https://streak-stats.demolab.com?user=Federkone&theme=dark&hide_border=true&mode=weekly&background=161616&hide_total_contributions=true)](https://git.io/streak-stats)  |
-| ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=federkone&layout=compact&hide_border=true&bg_color=161616&theme=dark)|![Trofeos](https://github-profile-trophy.vercel.app/api?username=federkone&theme=onestar&no-bg=aflse&no-frame=true&column=2&row=1&margin-w=40) |
+| ![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=federkone&show_icons=true&hide_border=true&bg_color=161616&theme=dark) |![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=federkone&layout=compact&hide_border=true&bg_color=161616&theme=dark)  |
+|![Trofeos](https://github-profile-trophy.vercel.app/api?username=federkone&theme=onestar&no-bg=aflse&no-frame=true&column=2&row=1&margin-w=40)  ||
 
